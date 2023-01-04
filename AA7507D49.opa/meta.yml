@@ -1,0 +1,19 @@
+id: AA7507D49
+title: Yumka Fulfilment Practice
+type: translation
+pechas:
+- I7B079678
+- I4BDDA3C3
+source_metadata:
+  languages:
+  - en
+  - bo
+  datatype: PlainText
+  created_at: 2023-01-04 11:42:56.257369
+  last_modified_at: 2023-01-04 11:42:56.257376
+  collections:
+  - Dodrupchen Jigme Tenpe Nyima Series
+  - Works of Tibetan Masters
+alignment_to_base:
+  I7B079678/400F: 515F
+  I4BDDA3C3/F245: 515F
